@@ -23,7 +23,7 @@ The NRVS framework is split across various modules to provide data structures, u
 
 ### [Game](https://github.com/nrvs-sys/NRVS-Game)
 
-### [Input(https://github.com/nrvs-sys/NRVS-Input)
+### [Input](https://github.com/nrvs-sys/NRVS-Input)
 
 ### [Localization](https://github.com/nrvs-sys/NRVS-Localization)
 
