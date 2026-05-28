@@ -7,6 +7,8 @@ The NRVS framework is split across various modules to provide data structures, u
 
 ## Modules
 
+### [AI](https://github.com/nrvs-sys/NRVS-AI)
+
 ### [Application](https://github.com/nrvs-sys/NRVS-Application)
 
 ### [Audio](https://github.com/nrvs-sys/NRVS-Audio)
