@@ -1,7 +1,7 @@
 # NRVS Framework
 Unity/C# Game Framework created & maintained by [Nervous Systems](https://nervous-systems.com/). Originally created during the development of [VEX MAGE](https://vexmage.com/).
 
-The NRVS framework is split across various modules to provide data structures, utilities, network support (through [FishNet](https://github.com/FirstGearGames/FishNet), and many other tools to assist the game development process.
+The NRVS framework is split across various modules to provide data structures, utilities, network support (through [FishNet](https://github.com/FirstGearGames/FishNet)), and many other tools to assist the game development process.
 
 ### NOTE - These modules are in an ALPHA state and still require manual dependency installation
 
